@@ -1,0 +1,2 @@
+﻿2016-12-6 13:16:54
+在 master 分支 branch_test2 上进行了4次commit和一次push之后，在master分支试着作出第二次修改。继续观察branch_test2有啥变化？
